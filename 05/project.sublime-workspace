@@ -1,0 +1,863 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"writem",
+				"writem"
+			],
+			[
+				"ROM",
+				"ROM32K\tROM32K"
+			],
+			[
+				"toi",
+				"toincC"
+			],
+			[
+				"finalloa",
+				"finalload"
+			],
+			[
+				"nota",
+				"notanotb"
+			],
+			[
+				"not",
+				"notcnnotd"
+			],
+			[
+				"toin",
+				"toincC"
+			],
+			[
+				"Mux",
+				"Mux\tMux"
+			],
+			[
+				"out",
+				"outtemp"
+			],
+			[
+				"is",
+				"is_pos"
+			],
+			[
+				"p",
+				"p2"
+			],
+			[
+				"aluin",
+				"aluiny"
+			],
+			[
+				"wri",
+				"writeM"
+			],
+			[
+				"load",
+				"loadD"
+			],
+			[
+				"add",
+				"addressM"
+			],
+			[
+				"in",
+				"instruction"
+			],
+			[
+				"ouT",
+				"outM"
+			],
+			[
+				"ann",
+				"annotation_file\tstatement"
+			],
+			[
+				"im",
+				"image_dir\tstatement"
+			],
+			[
+				"ima",
+				"image_name\tstatement"
+			],
+			[
+				"map",
+				"mapping\tstatement"
+			],
+			[
+				"zip",
+				"zipped\tstatement"
+			],
+			[
+				"ims",
+				"imshow\tfunction"
+			],
+			[
+				"an",
+				"annotation_path\tstatement"
+			],
+			[
+				"A",
+				"ARegister\tARegister"
+			],
+			[
+				"And",
+				"And\tAnd"
+			],
+			[
+				"Ram",
+				"RAM16K\tRAM16K"
+			],
+			[
+				"nex",
+				"next_index"
+			],
+			[
+				"cou",
+				"counter"
+			],
+			[
+				"to",
+				"tocompare"
+			],
+			[
+				"m",
+				"math"
+			],
+			[
+				"po",
+				"powers"
+			],
+			[
+				"pol",
+				"poly1"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"POL",
+				"sparsePoly"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"tot",
+				"total_terms"
+			],
+			[
+				"co",
+				"coeff"
+			],
+			[
+				"pivot",
+				"pivot_val"
+			],
+			[
+				"print",
+				"printtable1\tfunction"
+			],
+			[
+				"part1",
+				"part1\tfunction"
+			],
+			[
+				"xl",
+				"xlabel\tfunction"
+			],
+			[
+				"te",
+				"temps\tstatement"
+			],
+			[
+				"vmp",
+				"vmpn\tstatement"
+			],
+			[
+				"read",
+				"readlines\tfunction"
+			],
+			[
+				"file",
+				"fileContent\tstatement"
+			],
+			[
+				"image",
+				"image_to_add\tstatement"
+			],
+			[
+				"mask",
+				"masked\tstatement"
+			],
+			[
+				"user",
+				"use_trained\tparam"
+			],
+			[
+				"mode",
+				"model_name\tparam"
+			],
+			[
+				"part",
+				"part1idark\tstatement"
+			],
+			[
+				"con",
+				"contour"
+			],
+			[
+				"imag",
+				"image"
+			],
+			[
+				"conto",
+				"contour"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"plt",
+				"pltaxes\tfunction"
+			],
+			[
+				"sca",
+				"scatter\tfunction"
+			],
+			[
+				"py",
+				"pyplot\tmodule"
+			],
+			[
+				"col",
+				"column\tparam"
+			],
+			[
+				"color",
+				"colour"
+			],
+			[
+				"cont",
+				"contour_ground\tstatement"
+			],
+			[
+				"path",
+				"path_to_ground_contour\tparam"
+			],
+			[
+				"int",
+				"intersection\tstatement"
+			],
+			[
+				"shift",
+				"shift_mag\tparam"
+			],
+			[
+				"inp",
+				"inp_mat\tstatement"
+			],
+			[
+				"rand",
+				"randint\tfunction"
+			],
+			[
+				"tod",
+				"todistort\tstatement"
+			],
+			[
+				"tra",
+				"traverseRecursive"
+			],
+			[
+				"std",
+				"stdio"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"new",
+				"newval"
+			],
+			[
+				"roo",
+				"root"
+			],
+			[
+				"Or",
+				"Or\tOr"
+			],
+			[
+				"curo",
+				"curoutinc"
+			],
+			[
+				"Dmux",
+				"DMux4Way\tDMux4Way"
+			],
+			[
+				"DMu",
+				"DMux8Way\tDMux8Way"
+			],
+			[
+				"Dmu",
+				"DMux8Way\tDMux8Way"
+			],
+			[
+				"Dm",
+				"DMux8Way\tDMux8Way"
+			],
+			[
+				"lo",
+				"load"
+			],
+			[
+				"ANd",
+				"And16\tAnd16"
+			],
+			[
+				"cur",
+				"curArea"
+			],
+			[
+				"max",
+				"maxArea"
+			],
+			[
+				"top",
+				"topush"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"tota",
+				"total_dist"
+			],
+			[
+				"tto",
+				"total_cost"
+			],
+			[
+				"de",
+				"deq"
+			],
+			[
+				"en",
+				"enq"
+			],
+			[
+				"sta",
+				"stack"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"output",
+				"output2"
+			],
+			[
+				"Not",
+				"Not\tNot"
+			],
+			[
+				"cli",
+				"clipcount\tstatement"
+			],
+			[
+				"input",
+				"input_dir\tparam"
+			],
+			[
+				"inpu",
+				"input_path\tparam"
+			],
+			[
+				"inter",
+				"intercepts"
+			],
+			[
+				"sam",
+				"sample_rate\tstatement"
+			],
+			[
+				"line",
+				"lineplot\tfunction"
+			],
+			[
+				"y",
+				"yscale\tfunction"
+			],
+			[
+				"csv",
+				"csv_reader\tstatement"
+			],
+			[
+				"use",
+				"user_card"
+			],
+			[
+				"fina",
+				"final_user_card\tstatement"
+			],
+			[
+				"conten",
+				"content_tuple\tstatement"
+			],
+			[
+				"conte",
+				"content\tstatement"
+			],
+			[
+				"user_car",
+				"user_card_mat\tstatement"
+			],
+			[
+				"stat",
+				"stat_mat\tstatement"
+			],
+			[
+				"mvle",
+				"mvlens_data_loader\tclass"
+			],
+			[
+				"helium",
+				"helium_data_loader\tclass"
+			],
+			[
+				"bits",
+				"bitstring"
+			],
+			[
+				"oo",
+				"oo2"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"fact",
+				"fact_w\tstatement"
+			],
+			[
+				"ran",
+				"random\tmodule"
+			],
+			[
+				"sort",
+				"sorted_edges\tstatement"
+			],
+			[
+				"krus",
+				"kruskalEdges\tstatement"
+			],
+			[
+				"kru",
+				"kruskalEdges\tstatement"
+			],
+			[
+				"c",
+				"curcount"
+			],
+			[
+				"v",
+				"vir\tstatement"
+			],
+			[
+				"del",
+				"delimiter\tparam"
+			],
+			[
+				"gen",
+				"genfromtxt\tfunction"
+			],
+			[
+				"num",
+				"numpy\tmodule"
+			],
+			[
+				"curs",
+				"cur_sum"
+			],
+			[
+				"th",
+				"theorems_mod"
+			],
+			[
+				"awa",
+				"awake_count"
+			],
+			[
+				"the",
+				"theorems_orig"
+			],
+			[
+				"tho",
+				"theorems_mod"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"n",
+				"n3"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 91.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/05/CPU.hdl",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/05/Computer.hdl",
+		"/Users/mithileshvaidya/Code/nand2tetris/tools/builtInChips/DRegister.hdl",
+		"/Users/mithileshvaidya/Code/nand2tetris/tools/builtInChips/ALU.hdl",
+		"/Users/mithileshvaidya/Code/nand2tetris/tools/builtInChips/PC.hdl",
+		"/Users/mithileshvaidya/Code/nand2tetris/tools/builtInChips/ARegister.hdl",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/05/XorPair.hdl",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/05/CPU.out",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/05/CPU.cmp",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/06/assembler.py",
+		"/Users/mithileshvaidya/Code/Algorithms/graph.py",
+		"/Users/mithileshvaidya/Code/Algorithms/InsertionSort.py",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/05/Xor.hdl",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/05/Memory.hdl",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/03/b/RAM16K.hdl",
+		"/Users/mithileshvaidya/Code/AutoniseAI/Dhanuka/model_final/src/data_loader.py",
+		"/Users/mithileshvaidya/Code/nand2tetris/tools/builtInChips/Register.hdl",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/model_final/src/dl_model.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/model_final/data_prep/contours.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/model_final/data_prep/Annotations/13-C-T0.json",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/model_final/data_prep/Annotations/01-C-T0.json",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/model_final/data_prep/display_contours.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/model_final/data_prep/Annotations/07-C-T0.json",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/model_final/data_prep/Annotations/10-C-T0.json",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/model_final/data_prep/tinker.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/pipeline/src/data_loader.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/pipeline/src/model/unet.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/pipeline/configs/config.yaml",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/pipeline/main.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/pipeline/src/dl_model.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/pipeline/src/pipeline_manager.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/pipeline/src/read_yaml.py",
+		"/Users/mithileshvaidya/pipeline/src/pipeline_manager.py",
+		"/Users/mithileshvaidya/pipeline/src/data_loader.py",
+		"/Users/mithileshvaidya/pipeline/main.py",
+		"/Users/mithileshvaidya/pipeline/configs/config.yaml",
+		"/Users/mithileshvaidya/Desktop/pipeline/misc/data_loader.py",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/05/Memory.cmp",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/05/Memory.tst",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/02/Or8Way.hdl",
+		"/Users/mithileshvaidya/Code/nand2tetris/tools/builtInChips/Screen.hdl",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/CS213/Assignment 3/P4/p4.cpp",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/CS213/Assignment 3/<roll_number>_A3/P3/p3.cpp",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/CS213/Assignment 3/<roll_number>_A3/P2/p2-qs.cpp",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/CS213/Assignment 3/<roll_number>_A3/P2/p2-ms.cpp",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/CS213/Assignment 3/<roll_number>_A3/P1/p1.cpp",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/CS213/Assignment 3/<roll_number>_A3/P4/p4-bonus.cpp",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/CS213/Assignment 3/<roll_number>_A3/P4/p4.cpp",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/CS213/Assignment 3/<roll_number>_A3/P5/p5.cpp",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 9/ngspice/plotter.py",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 9/ngspice/part_1.cir",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 9/ngspice/part_2.cir",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 9/lab9data_edited.csv",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 9/tinker.py",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 8/EE236_expt8.tex",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 9/lab9data.csv",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Midsem/midsem data.csv",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Midsem/lab.py",
+		"/Users/mithileshvaidya/Desktop/lab.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/display_contours.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/01-C-T0.json",
+		"/Users/mithileshvaidya/Downloads/01-C-T0.json",
+		"/Users/mithileshvaidya/Downloads/11-C-T0.json",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/Annotation app/sloth/sloth/gui/frameviewer.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/Annotation app/sloth/sloth/gui/propertyeditor.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/Annotation app/sloth/sloth/annotations/model.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/Annotation app/sloth/sloth/gui/labeltool.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/Annotation app/sloth/sloth/core/labeltool.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/Annotation app/sloth/sloth/items/items.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/Annotation app/sloth/sloth/items/inserters.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/Annotation app/sloth/sloth/core/commands.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/Annotation app/sloth/sloth/conf/default_config.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/Annotation app/sloth/sloth/core/cli.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/Annotation app/sloth/sloth/gui/annotationscene.py",
+		"/Users/mithileshvaidya/Downloads/sloth-qt5/sloth/items/items.py",
+		"/Users/mithileshvaidya/Downloads/sloth-qt5/sloth/gui/labeltool.py",
+		"/Users/mithileshvaidya/Downloads/sloth-qt5/sloth/core/utils.py",
+		"/Users/mithileshvaidya/Downloads/sloth-qt5/sloth/gui/propertyeditor.py",
+		"/Users/mithileshvaidya/Downloads/sloth-qt5/sloth/gui/buttonarea.py",
+		"/Users/mithileshvaidya/Downloads/sloth-qt5/sloth/gui/annotationscene.py",
+		"/Users/mithileshvaidya/Downloads/sloth-qt5/sloth/core/labeltool.py",
+		"/Users/mithileshvaidya/Downloads/sloth-qt5/sloth/conf/default_config.py",
+		"/Users/mithileshvaidya/Downloads/sloth-qt5/sloth/gui/floatinglayout.py",
+		"/Users/mithileshvaidya/Downloads/sloth-qt5/sloth/annotations/model.py",
+		"/Users/mithileshvaidya/Downloads/sloth-qt5/examples/customskincare.py",
+		"/Users/mithileshvaidya/Downloads/sloth-qt5/sloth/items/factory.py",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 9/ngspice/ideality.py",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 9/ngspice/fill_factor.py",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 9/ngspice/tinker.py",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 9/ngspice/a.cir",
+		"/Users/mithileshvaidya/Code/AllAI/pipeline/src/model/generic_model.py",
+		"/Users/mithileshvaidya/Code/AllAI/pipeline/configs/config.yaml",
+		"/Users/mithileshvaidya/Code/AllAI/pipeline/src/data_loader.py",
+		"/Users/mithileshvaidya/Code/AllAI/pipeline/src/model/unet.py",
+		"/Users/mithileshvaidya/Code/AllAI/pipeline/src/dl_model.py",
+		"/Users/mithileshvaidya/Code/AllAI/pipeline/src/pipeline_manager.py",
+		"/Users/mithileshvaidya/Code/AllAI/pipeline/main.py",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 8/ngspice/a.cir",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/04/fill/Fill.asm",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 8/ngspice/c.cir",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 8/tinker.py",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 8/data.csv",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/04/mult/Multi.asm",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/04/fill/Fill.tst",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/04/mult/Multi.cmp",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/single_image.py",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/Annotated/final.py",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 8/data.xlsx",
+		"/Users/mithileshvaidya/Code/AllAI/Dhanuka/final.py",
+		"/Users/mithileshvaidya/Desktop/yo.json",
+		"/Users/mithileshvaidya/Desktop/sloth-qt5/examples/customrectitemconfig.py",
+		"/Users/mithileshvaidya/Downloads/single_image.py",
+		"/Users/mithileshvaidya/Downloads/sloth-master/setup.py",
+		"/Users/mithileshvaidya/Desktop/semantic-segmentation-editor/server/main.js",
+		"/Users/mithileshvaidya/Desktop/semantic-segmentation-editor/README.md",
+		"/Users/mithileshvaidya/semantic-segmentation-editor/settings.json",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 7/tinker.py",
+		"/Users/mithileshvaidya/Code/Algorithms/BST.cpp",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/03/a/PC.hdl",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/CS213/Assignment 2/P2/p2.cpp",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/03/a/PC.cmp",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/03/a/Bit.hdl",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/03/a/RAM64.hdl",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/03/a/RAM8.hdl",
+		"/Users/mithileshvaidya/Code/nand2tetris/projects/03/a/Register.hdl",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/EE236/Lab 6/exp.py",
+		"/Users/mithileshvaidya/Code/nand2tetris/tools/builtInVMCode/Array.class",
+		"/Users/mithileshvaidya/Google Drive/Sem 3/CS213/Assignment 2/P4/p4.cpp"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_",
+			"    ",
+			"zr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Code/nand2tetris/projects/05/CPU.hdl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
